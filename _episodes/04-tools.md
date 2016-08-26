@@ -1,5 +1,5 @@
 ---
-title: "Formatting"
+title: "Tools for Analysis"
 teaching: 10
 exercises: 0
 questions:
