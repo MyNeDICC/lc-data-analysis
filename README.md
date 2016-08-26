@@ -1,17 +1,17 @@
 Lesson Layout
 ==============
 
-1 Context of RDM 
+1 - Context of RDM 
 
-2 Introduction to Data Analyis
+2 - Introduction to Data Analyis
 
-3 Cleaning of Data
+3 - Cleaning of Data
 
-4 Tools for Analyis
+4 - Tools for Analyis
 
-5 Interpreting Data
+5 - Interpreting Data
 
-6 Displaying Data
+6 - Displaying Data
 
 ## Quick Instructions
 
