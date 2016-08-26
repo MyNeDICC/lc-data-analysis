@@ -1,12 +1,12 @@
-lesson-example
+Lesson Layout
 ==============
 
-This repository shows how to create a lesson using
-the [Software Carpentry lesson template][styles],
-and is itself an example of the use of that template.
-Please see <https://swcarpentry.github.io/lesson-example/>
-for a rendered version of this material,
-including detailed instructions on design, setup, and formatting.
+1 Context of RDM 
+2 Introduction to Data Analyis
+3 Cleaning of Data
+4 Tools for Analyis
+5 Interpreting Data
+6 Displaying Data
 
 ## Quick Instructions
 
