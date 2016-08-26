@@ -1,5 +1,5 @@
 ---
-title: "GitHub, Markdown, and Jekyll"
+title: "Introduction to RDM"
 teaching: 10
 exercises: 0
 questions:
