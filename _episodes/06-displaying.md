@@ -1,5 +1,5 @@
 ---
-title: "Using RMarkdown"
+title: "Displaying Data"
 teaching: 10
 exercises: 2
 questions:
