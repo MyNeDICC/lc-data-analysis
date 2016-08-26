@@ -1,5 +1,5 @@
 ---
-title: "Lesson Organization"
+title: "Cleaning of Data"
 teaching: 10
 exercises: 0
 questions:
